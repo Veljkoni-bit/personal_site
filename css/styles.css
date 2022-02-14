@@ -1,0 +1,122 @@
+h1 {
+	margin: 50px auto 0 auto;
+	color: #EBE645;
+	font-size: 6.25rem;
+	font-family: 'IBM Plex Mono', monospace;
+	line-height: 2;
+}
+h2 {
+	font-family: 'Ubuntu Mono', monospace;
+	font-size: 2.5rem;
+	color: #EBE645;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+h3 {
+	font-family: 'Ubuntu Mono', monospace;
+	color: #14279B;
+}
+body {
+	margin: 0;
+	text-align: center;
+	font-family: 'Source Code Pro', monospace;
+	font-size: 1.2em;
+	color: #40514E;
+}
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 10px;
+	width: 4%;
+}
+p {
+	line-height: 2;
+}
+.top-section {
+	background-color: #22577E;
+	position: relative;
+	padding-top: 150px;
+}
+.AI_pic {
+	width: 35%;
+}
+.top-cloud {
+	position: absolute;
+	top: 50px;
+	right: 300px;
+}
+.bottom-cloud {
+	position: absolute;
+	bottom: 300px;
+	left: 300px;
+}
+.middle-section {
+	margin: 100px auto;
+}
+.footer-link {
+	color: #398AB9;
+	font-family: 'Source Code Pro', monospace;
+	margin: 10px 20px;
+	text-decoration: none;
+}
+.footer-link:hover {
+	color: #EAF6F6;
+}
+.skills-row {
+	width: 50%;
+	margin: 100px auto;
+	text-align: left; 
+}
+.profile {
+	width: 50%;
+	margin: 20px auto;
+}
+.bottom-section {
+	background-color: #22577E;
+	padding: 50px 0 20px;
+}
+.end {
+	color: #EAF6F6;
+	font-size: 0.75rem;
+	padding: 20px 0;
+}
+.sport-img {
+	width: 25%;
+	float: left;
+	padding: 30px
+}
+.code-img {
+	width: 25%;
+	float: right;
+	padding: 30px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.text {
+	width: 40%;
+	margin: 40px auto 60px;
+}
